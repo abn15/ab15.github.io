@@ -1,4 +1,4 @@
-baseurl: "ab15.github.io"  # please update this to your actual URL
+baseurl: "abn15.github.io"  # please update this to your actual URL
 languageCode: "en-us"
 title: "abn"
 theme: "hugo-xmin"
@@ -30,7 +30,7 @@ menu:
 
 params:
   description: "A random place for me to document"
-  footer: "&copy; [Angel](ab15.github.io) 2025 -- {Year} | [Github](https://github.com/abn15) | [Twitter](https://twitter.com/ctrl_zedd)"
+  footer: "&copy; [Angel](abn15.github.io) 2025 -- {Year} | [Github](https://github.com/abn15) | [Twitter](https://twitter.com/ctrl_zedd)"
 
 markup:
   highlight:
